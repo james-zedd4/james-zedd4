@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @james-zedd4
 - 👀 I’m interested in: coffee
-- 🌱 I’m currently learning: never stop learning
+- 🌱 I’m currently learning: Python and AI
 - 💞️ I’m looking to collaborate on: how to make the best steak
 - 📫 How to reach me: email
 - ⚡ Fun fact: I once won a push up competition by doing 101 push ups in 90 seconds
